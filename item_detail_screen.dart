@@ -8,13 +8,7 @@ import 'package:food_delivery_app_ui/widgets/ingredient_widget.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 
-/* 
-Title: ItemDetailScreen,
-Purpose:ItemDetailScreen,
-Required Widget:CategoryWidget,IngredientsWidget,AddToCartWidget
-Created Date:20, Feb 2021,
-Created By:Kalpesh Khandla
-*/
+
 
 class ItemDetailScreen extends StatelessWidget {
   final ingredientArray = [
